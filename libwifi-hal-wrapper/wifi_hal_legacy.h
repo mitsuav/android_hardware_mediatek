@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <hardware_legacy/wifi_hal.h>
+#include "wifi_hal.h"
 
 // wifi HAL function pointer table
 typedef struct {
